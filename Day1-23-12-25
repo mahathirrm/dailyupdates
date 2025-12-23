@@ -2,3 +2,5 @@ Configured AWS CLI and connect to the EC2 Machine
 changed the file persmission  by disable inheritance to all user and provide read only to current user
 successfully connected to the ec2 instance
 *******************************************************************************************************
+***********Learning Linux Shell Scripting**************************************************************
+
