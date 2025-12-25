@@ -20,3 +20,7 @@ In ls -l output, the first character indicates file type:
 
 Character	Meaning
 b	Block device
+***************************************
+Major number → identifies the device driver / device type
+
+Minor number → identifies the specific device or partition handled by that driver
